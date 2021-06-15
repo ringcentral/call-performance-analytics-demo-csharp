@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5sba6XZLi9wX7Gj8+wHY7nDKu5b21tPXMdzcjUOFA7ie11FJi1HSPO9vRAgRhyq31QDw8WA3dqdtVZNI0Fv2Jw==",
+  "dgSpecHash": "/A37FWbdW7QAl5KxSGT8/GyUicsnPGBoDkRkm2ZMrTuXxPPb0gKxE5bAxUPaMVeKJwPRx/5mot24iU7rxK9w8g==",
   "success": true,
   "projectFilePath": "/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/WebAPIClient.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/suyash.joshi/.nuget/packages/restsharp/106.11.7/restsharp.106.11.7.nupkg.sha512"
+  ],
   "logs": []
 }

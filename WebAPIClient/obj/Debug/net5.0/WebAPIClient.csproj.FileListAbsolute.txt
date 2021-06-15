@@ -13,3 +13,5 @@
 /Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/obj/Debug/net5.0/ref/WebAPIClient.dll
 /Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/obj/Debug/net5.0/WebAPIClient.pdb
 /Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/obj/Debug/net5.0/WebAPIClient.genruntimeconfig.cache
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/bin/Debug/net5.0/RestSharp.dll
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/obj/Debug/net5.0/WebAPIClient.csproj.CopyComplete
