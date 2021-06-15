@@ -1,16 +1,20 @@
-<<<<<<< HEAD
-# call-performance-demo
+# Call Performance Demo Application (C# using RestSharp)
 
-PreRequisite:
+This is a simple C# application that uses RestSharp library to demonstrate how to call RingCentral Call Performance API. The resulting JSON is rendered on the standard console.
 
-1. .Net SDK
-2. C# Compiler
+## PreRequisite:
 
-Steps to run the program:
+1. .Net SDK (.Net or .Net Core)
+2. RestSharp Library
 
-1. Open the api-demo.cs file in your IDE
-2. Edit the file with your O-Auth Token / API Credentials
+## Steps to run the program
+
+1. Clone this GitHub Repository
+2. Navigate to the WebAPIClient folder
+2. Edit the "Program.cs" file by adding your O-Auth 2.0 Token. For more information regarding the same refer to this [guide](https://developers.ringcentral.com/guide/authentication).
 3. Compile and Run the program
-4. Open Console to see the output of the API Request
-
-# Call Performance API Demo App (C#)
+```
+dotnet add package RestSharp
+dotnet run                  
+```
+4. Open Console to see the JSON Response of the Call Performance API Execution
