@@ -1,0 +1,15 @@
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/bin/Debug/net5.0/WebAPIClient.deps.json
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/bin/Debug/net5.0/WebAPIClient.runtimeconfig.json
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/bin/Debug/net5.0/WebAPIClient.runtimeconfig.dev.json
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/bin/Debug/net5.0/WebAPIClient.dll
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/bin/Debug/net5.0/ref/WebAPIClient.dll
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/bin/Debug/net5.0/WebAPIClient.pdb
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/obj/Debug/net5.0/WebAPIClient.csproj.AssemblyReference.cache
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/obj/Debug/net5.0/WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/obj/Debug/net5.0/WebAPIClient.AssemblyInfoInputs.cache
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/obj/Debug/net5.0/WebAPIClient.AssemblyInfo.cs
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/obj/Debug/net5.0/WebAPIClient.csproj.CoreCompileInputs.cache
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/obj/Debug/net5.0/WebAPIClient.dll
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/obj/Debug/net5.0/ref/WebAPIClient.dll
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/obj/Debug/net5.0/WebAPIClient.pdb
+/Users/suyash.joshi/Code/RC-Phone-Analytics/call-performance-api-demo/WebAPIClient/obj/Debug/net5.0/WebAPIClient.genruntimeconfig.cache
