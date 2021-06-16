@@ -1,6 +1,6 @@
 # Call Performance Demo Application (C# using RestSharp)
 
-This is a simple C# application that uses RestSharp library to demonstrate how to call RingCentral Call Performance API. The resulting JSON is rendered on the standard console. You would need to implement Authentication with RingCentral to run this demo application. More information about that can be found in the [developer guide](https://developers.ringcentral.com/guide/authentication)
+This is a simple C# application that uses RestSharp library to demonstrate how to call RingCentral Call Performance API. The resulting JSON is rendered on the standard console. You would need to implement Authentication with RingCentral to run this demo application. More information about that can be found in the [developer guide.](https://developers.ringcentral.com/guide/authentication)
 
 ## PreRequisite:
 
