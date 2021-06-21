@@ -6,15 +6,17 @@ This is a simple C# application that uses RestSharp library to demonstrate how t
 
 1. .Net SDK (.Net or .Net Core)
 2. RestSharp Library
+3. RingCentral Application ID & Secret (from Developer Dashboard - Production Credentials) for authentication purpose
 
 ## Steps to run the program
 
 1. Clone/Download this GitHub Repository
 2. Navigate to the WebAPIClient folder
-2. Edit the "Program.cs" file by adding your O-Auth 2.0 support. For more information regarding the same refer to this [guide](https://developers.ringcentral.com/guide/authentication).
+2. Edit the "Program.cs" file by adding authentication support. For more information regarding the same refer to this [guide](https://developers.ringcentral.com/guide/authentication).
 3. Compile and Run the program by executing the following commands
 ```
 dotnet add package RestSharp
 dotnet run                  
 ```
 4. Open Console to see the JSON Response of the Call Performance API Execution
+
