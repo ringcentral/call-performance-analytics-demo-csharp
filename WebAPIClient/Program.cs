@@ -28,10 +28,10 @@ namespace WebAPIClient {
                  @"    ""origin"": ""Internal""," + "\n" +
                  @"    ""callResponse"": ""Answered""," + "\n" +
                  @"    ""callResponseType"": [" + "\n" +
-                 @"      ""InboundAnswers""" + "\n" +
+                 @"      ""InboundDirect""" + "\n" +
                  @"    ]," + "\n" +
                  @"    ""callResult"": {" + "\n" +
-                 @"      ""isEnded"": true," + "\n" +
+                 @"      ""isCompleted"": true," + "\n" +
                  @"      ""isAbandoned"": true," + "\n" +
                  @"      ""isVoiceMail"": true," + "\n" +
                  @"      ""isConnected"": true" + "\n" +
