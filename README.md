@@ -15,7 +15,7 @@ More information about that can be found in the [developer guide.](https://devel
 
 1. Clone/Download this GitHub Repository
 2. Navigate to the WebAPIClient folder
-2. Edit the "Program.cs" file by adding authentication support. For more information regarding the same refer to this [guide](https://developers.ringcentral.com/guide/authentication).
+2. Edit the "[Program.cs](WebAPIClient/Program.cs)" file by adding authentication support. For more information regarding the same refer to this [guide](https://developers.ringcentral.com/guide/authentication).
 3. Compile and Run the program by executing the following commands
 ```
 dotnet add package RestSharp
